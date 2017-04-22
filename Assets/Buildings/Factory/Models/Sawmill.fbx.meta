@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: ea2e928318a5b9046a43eb168e36dfc7
+timeCreated: 1488543732
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Saw
+    100002: Saw table
+    100004: //RootNode
+    100006: Sawmill Hut
+    100008: Planks
+    100010: Base
+    100012: Logs
+    100014: Lumbejack hut
+    100016: LumberjackHut Lowpoly
+    100018: Sawmill
+    100020: Sawmill Hut.001
+    100022: Stuff
+    100024: Tree
+    100026: Trees
+    100028: Wheel
+    100030: Planks LOD
+    100032: Saw table LOD
+    400000: Saw
+    400002: Saw table
+    400004: //RootNode
+    400006: Sawmill Hut
+    400008: Planks
+    400010: Base
+    400012: Logs
+    400014: Lumbejack hut
+    400016: LumberjackHut Lowpoly
+    400018: Sawmill
+    400020: Sawmill Hut.001
+    400022: Stuff
+    400024: Tree
+    400026: Trees
+    400028: Wheel
+    400030: Planks LOD
+    400032: Saw table LOD
+    2300000: Saw
+    2300002: Saw table
+    2300004: Sawmill Hut
+    2300006: Planks
+    2300008: Base
+    2300010: Logs
+    2300012: LumberjackHut Lowpoly
+    2300014: Sawmill Hut.001
+    2300016: Tree
+    2300018: Trees
+    2300020: Wheel
+    2300022: Planks LOD
+    2300024: Saw table LOD
+    3300000: Saw
+    3300002: Saw table
+    3300004: Sawmill Hut
+    3300006: Planks
+    3300008: Base
+    3300010: Logs
+    3300012: LumberjackHut Lowpoly
+    3300014: Sawmill Hut.001
+    3300016: Tree
+    3300018: Trees
+    3300020: Wheel
+    3300022: Planks LOD
+    3300024: Saw table LOD
+    4300000: Sawmill Hut
+    4300002: Saw table
+    4300004: Saw
+    4300006: Planks
+    4300008: Tree
+    4300010: LumberjackHut Lowpoly
+    4300012: Sawmill Hut.001
+    4300014: Logs
+    4300016: Trees
+    4300018: Base
+    4300020: Wheel
+    4300022: Saw table LOD
+    4300024: Planks LOD
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2 @@
+cashSave;{"_cash":{"_amount":4000},"_researchPoints":{"_amount":5250}}
+mapSave;{"_factories":[],"_labolatories":[{"Id":"lab","_position":{"x":1.0,"y":0.0,"z":-1.0},"_constructionTimeSerialized":131367374022501307,"_productionEndTimeSerialized":131367374322501307,"_produceAmount":5,"_producePeriod":1},{"Id":"lab","_position":{"x":1.0,"y":0.0,"z":-2.0},"_constructionTimeSerialized":131367374086361996,"_productionEndTimeSerialized":131367374326361996,"_produceAmount":5,"_producePeriod":1}]}

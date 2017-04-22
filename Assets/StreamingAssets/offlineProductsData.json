@@ -1,0 +1,38 @@
+{
+  "range": "Products!A3:B1000",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "1",
+      "ResearchPoints"
+    ],
+    [
+      "2",
+      "RawWood"
+    ],
+    [
+      "3",
+      "Wood"
+    ],
+    [
+      "4",
+      "Planks"
+    ],
+    [
+      "5",
+      "Table"
+    ],
+    [
+      "6",
+      "IronOre"
+    ],
+    [
+      "7",
+      "Iron"
+    ],
+    [
+      "8",
+      "Steel"
+    ]
+  ]
+}
